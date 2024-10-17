@@ -1,2 +1,15 @@
-# Employee_Management_Project
-Employee management system that allows for the management of information about employees, clients, and client workers. The system includes features for adding employees, processing payments for clients, setting employee salaries, and displaying average salary. Designed for easy and intuitive use, it utilizes linked lists for data management.
+# Employee Management System
+
+This project is designed to manage employees effectively, providing features for adding, removing, and updating employee information. It includes functionalities such as payroll management, role assignments, and employee performance tracking. The system aims to streamline HR processes and enhance productivity.
+
+## Features
+
+- Add, remove, and update employee records
+- Manage payroll information
+- Assign roles and responsibilities
+- Track employee performance
+
+## Requirements
+
+- C++ Compiler
+- Any required libraries
